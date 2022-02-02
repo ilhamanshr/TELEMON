@@ -1,0 +1,6 @@
+node_modules
+logs
+.env
+.gitlab-ci.yml
+README.md
+sonar-project.properties
